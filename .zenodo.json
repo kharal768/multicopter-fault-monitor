@@ -1,0 +1,32 @@
+{
+  "title": "Quadrotor fault monitor: hybrid digital twin with calibrated alarm thresholds",
+  "upload_type": "software",
+  "description": "Code and per-flight results for the manuscript \"Detecting controller-compensated faults in real quadrotor flights with a hybrid digital twin and calibrated alarm thresholds\" (submitted to Mechanical Systems and Signal Processing). The monitor combines a hybrid digital twin, physics-based consistency checks and group-wise MEWMA charts with alarm thresholds calibrated on held-out healthy flight time, evaluated on the real flights of the RflyMAD dataset (Le et al., 2025, https://doi.org/10.1177/02783649241305153). The flight data are not included.",
+  "creators": [
+    {
+      "name": "Imran, Muhammad",
+      "affiliation": "College of Economics and Management, Tianjin University"
+    },
+    {
+      "name": "He, Zhen",
+      "affiliation": "College of Economics and Management, Tianjin University"
+    },
+    {
+      "name": "Zaidi, Fatima Sehar",
+      "affiliation": "College of Economics and Management, Tianjin University"
+    },
+    {
+      "name": "Tran, Kim Phuc",
+      "affiliation": "Université de Lille, ENSAIT, GEMTEX"
+    }
+  ],
+  "keywords": [
+    "digital twin",
+    "fault detection",
+    "quadrotor",
+    "multicopter",
+    "control chart",
+    "conformal calibration"
+  ],
+  "version": "1.0.0"
+}
